@@ -1,0 +1,14 @@
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+F:\Project\TCS\dotnet unittest\HETProject\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll

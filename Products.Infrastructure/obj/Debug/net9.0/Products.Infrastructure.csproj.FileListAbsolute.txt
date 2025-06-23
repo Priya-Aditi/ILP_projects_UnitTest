@@ -1,0 +1,11 @@
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\bin\Debug\net9.0\Products.Infrastructure.deps.json
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\bin\Debug\net9.0\Products.Infrastructure.dll
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\bin\Debug\net9.0\Products.Infrastructure.pdb
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\obj\Debug\net9.0\Products.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\obj\Debug\net9.0\Products.Infrastructure.AssemblyInfoInputs.cache
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\obj\Debug\net9.0\Products.Infrastructure.AssemblyInfo.cs
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\obj\Debug\net9.0\Products.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\obj\Debug\net9.0\Products.Infrastructure.dll
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\obj\Debug\net9.0\refint\Products.Infrastructure.dll
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\obj\Debug\net9.0\Products.Infrastructure.pdb
+F:\Project\TCS\dotnet unittest\HETProject\Products.Infrastructure\obj\Debug\net9.0\ref\Products.Infrastructure.dll
